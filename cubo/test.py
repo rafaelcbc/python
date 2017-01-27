@@ -1,0 +1,6 @@
+from cubo import *
+
+def test_cubo():
+	assert cubo(2) == 4
+	assert cubo(0) == 0
+	assert cubo(-1) == 1
