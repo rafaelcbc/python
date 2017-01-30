@@ -1,3 +1,3 @@
 def cubo(valor):
-	res = valor*valor
+	res = valor**3
 	return res
