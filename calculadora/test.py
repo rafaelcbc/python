@@ -1,4 +1,4 @@
-from math2 import *
+from calc import *
 
 def test_soma():
 	assert soma(2,2) == 4
